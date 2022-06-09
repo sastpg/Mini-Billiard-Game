@@ -1,0 +1,4 @@
+﻿  Load_Save.cpp
+F:\Visual Studio Projects\BilliardGame\BilliardGame\BilliardGame\Load_Save.cpp(30,44): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+F:\Visual Studio Projects\BilliardGame\BilliardGame\BilliardGame\Load_Save.cpp(31,44): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  BilliardGame.vcxproj -> F:\Visual Studio Projects\BilliardGame\BilliardGame\Debug\BilliardGame.exe
